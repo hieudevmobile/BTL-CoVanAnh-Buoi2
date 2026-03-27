@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ô ghế cố định: trống / đã đặt cùng kích thước -->
+    <dimen name="seat_cell_size">44dp</dimen>
+    <dimen name="seat_text_sp">12sp</dimen>
+</resources>
